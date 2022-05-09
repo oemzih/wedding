@@ -24,7 +24,7 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 - See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
 
-```js
+```js 
 
 const newCouple = 'Sonali & Gagan';
 
@@ -75,4 +75,4 @@ Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.c
 
 <br><sup><i>With warm regards,<br>
 **Vinit Shahdeo**<i></sup><br>
-[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+[![Instagram Follow @thismootsga](https://img.shields.io/instagram/follow/thismootsga)](https://instagram.com/thismootsga)
